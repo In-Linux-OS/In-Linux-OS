@@ -1,0 +1,11 @@
+Hi, Welcome.
+
+My all projects are open source, feel free & safe to modify & re-distribute them.
+Projects are open source, but some features are paid, like in some of my projects,
+there are paid subscriptions, like remove ads, purchase memberships & more. If you
+want information about project modifying, read modifying.txt file.
+
+File created on 4/10/2021
+Last modified on 4/10/2021
+
+© In Linux OS, All Right Reserved.
